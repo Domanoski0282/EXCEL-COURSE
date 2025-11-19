@@ -1,1 +1,1 @@
-Lessons and practice examples from Analyst Builder Exc el for Data Analysis Course 
+Lessons and practice examples from Analyst Builder Excel for Data Analysis Course 
